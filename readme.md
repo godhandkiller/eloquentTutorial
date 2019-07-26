@@ -18,8 +18,6 @@ It teaches you about the following relations:
 - [Has many through].
 - [Polymorphic Relations].
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
 ## Interesting things or things that I learn
 
 Again, it was a very easy tutorial but there were some details I didn't know that I actually came up on the project that I'm working.
